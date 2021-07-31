@@ -1,4 +1,3 @@
-from os import sep
 from shapes import shapes
 
 class game:
