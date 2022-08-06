@@ -34,7 +34,6 @@ export default function Login({ csrfToken, callbackUrl }) {
     } else {
       console.log("error", response)
     }
-
     // const data = {
     //   email: e.target.email.value,
     //   password: e.target.password.value,
